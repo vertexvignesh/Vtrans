@@ -50,7 +50,7 @@ replaces the existing LANGUAGES dictionary.
 To install the vtrans package, use the following command:
 
 ``` bash
-$ pip install vtrans==3.0.0
+$ pip install vtrans
 ```
 
 # How to use this library (simple)
